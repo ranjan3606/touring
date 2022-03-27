@@ -1,0 +1,21 @@
+.header-navbar ul li a{
+    color: black !important;
+    font-size: 1.2rem;
+}
+.wrapper{
+    margin: 0px 50px 0px 0px;
+}
+.wrapper  ul li a{
+    color: #fff !important;
+}
+.navbar-brand img{
+    height: 50px;
+}
+input::placeholder{
+    color: #fff !important;
+}
+input{
+    color: #fff;
+    background-color: gray !important;
+    border-radius: 25px !important;
+}

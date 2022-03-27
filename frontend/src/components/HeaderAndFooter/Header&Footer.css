@@ -1,0 +1,6 @@
+.men {
+    background-image: url('https://wallpaperaccess.com/full/4205651.jpg'), linear-gradient(#000, #f24);
+    background-size: cover;
+    height: 400px;
+    object-fit: cover;
+}
